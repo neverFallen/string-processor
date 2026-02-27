@@ -8,7 +8,7 @@ Simple yet complete string manipulation utilities in Python with full unit test 
 - Count words (split on whitespace)
 - Analyze text — returns original, reversed version, vowel count & word count in one call
 
-## ✨ Features
+## Features
 
 - Pure Python — zero dependencies
 - Defensive input validation
