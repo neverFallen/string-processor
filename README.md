@@ -1,4 +1,4 @@
-# String Processor 🔤
+# String Processor
 
 Simple yet complete string manipulation utilities in Python with full unit test coverage.
 
