@@ -23,3 +23,5 @@ string_processor.py       → core functions
 test_string_processor.py  → 5 test classes / ~20 assertions
 README.md                 → you're reading it right now
 .gitignore                → ignores Python cache files
+
+-Tests written with unittest – all passing!
