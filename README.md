@@ -1,6 +1,6 @@
 # String Processor
 
-Simple yet complete string manipulation utilities in Python with full unit test coverage.
+Complete string processor That I have done.
 
 **Functions included**
 - Reverse any string
@@ -25,4 +25,5 @@ README.md                 → you're reading it right now
 .gitignore                → ignores Python cache files
 
 -Tests written with unittest – all passing! 
+
 -Tests work without error
